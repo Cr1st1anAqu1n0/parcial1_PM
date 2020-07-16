@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM `notas` JOIN `materia` ON `notas`.`id_materia` = `materia`.`id` WHERE `nota` >= 51 AND `materia`.`departamento` = '1'
