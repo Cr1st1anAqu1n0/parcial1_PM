@@ -16,7 +16,7 @@
       <a class="navbar-brand" href="#"><img src="<?php echo base_url('image/profile1.jpeg');?>" alt="" style="width: 100px;"></a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
+      <li class="active"><a href="/academico/Home">Home</a></li>
       <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Materia <span class="caret"></span></a>
         <ul class="dropdown-menu">
 
